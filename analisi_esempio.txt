@@ -1,0 +1,31 @@
+ESEMPIO DI ANALISI DI ESTRATTO DI GESANG DER JUNGLINGE:
+
+2 macrosezioni, suddivisibili in più microsezioni, con 1 episodio centrale di passaggio tra le 2 macrosezioni
+Prima macrosezione: 00:00-05:59
+Seconda macrosezione: 06:17-12:43
+Episodio di passaggio: 06:00-06:16
+Prima macrosezione-prima microsezione: 00:00-01:04-vengono esposti prima solo suoni elettronici, poi solo le voci. 
+Il primo evento sonoro è una successione i suoni brevi che partono da una frequenza grave per andare verso l'acuto 
+con una progressiva diminuzione dell'intensità. L'evento si conclude con un suono lungo, che inizialmente fa da 
+sottofondo per i tre suoni brevi successivi, poi diminuisce d'intensità e subito ricresce, andando a collegarsi 
+a due suoni di frequenza chiara e distanti tra loro una 4°, che sono esposti dalla voce.
+Dopo l'esposizione separata dei due materiali (suoni elettronici e voce umana) ne inizia la sovrapposizione con 
+una intensità molto debole, al secondo 19, su un unico canale.
+L'oggetto sonoro ha una frequenza fissa per circa 3 sec sempre in pp. Il suono passa a una frequenza più grave 
+e rimane stabile per circa 8 sec. L'intensità, invece, viene modificata con crescendi e diminuendi a partire 
+dal silenzio, fino a p. Su questo sfondo si stagliano le voci che cantano fonemi poco comprensibili. 
+Al secondo 27 l'oggetto sonoro aumenta e diminuisce la frequenza e aumenta l'intensità, quindi entrano le voci, 
+anche queste con intensità maggiore. Vi è ora una successione di intervalli esposti sia dalla voce che dai suoni 
+elettronici. Al secondo 37 entra un suono molto acuto che dura 4 secondi a cui si sommano le voci che iniziano in 
+pp e arrivano a un mf. In quest'area l'intensità totale è maggiore perchè gli eventi si realizzano su entrambi i canali. 
+Dal secondo 42 l'intensità aumenta, ma tutto sembra fermarsi e acquietarsi perchè viene proposto come un grande corale 
+con una base di suoni a bassa frequenza e piccolissimi crescendi e diminuendi; le voci si sovrappongono alternando 
+vari intervalli. Con un graduale diminuendo si passa all'esposizione di un'unica voce che riporta all'entrata dell'oggetto 
+sonoro ascoltato all'inizio del brano.
+Prima Macrosezione-seconda microsezione-1:04-1:50
+Prima Macrosezione-terza microsezione-1:50-2:42
+Prima Macrosezione-quarta microsezione-2:42-3:22
+Prima Macrosezione-quinta microsezione-3:22-4:28
+Prima Macrosezione-sesta microsezione-4:28-6:00
+Episodio di passaggio-6:00-6:16
+Ulteriori suddivisioni interne anche nella seconda macrosezione
